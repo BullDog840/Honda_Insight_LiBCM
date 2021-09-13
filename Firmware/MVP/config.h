@@ -18,6 +18,11 @@
 		#define SET_CURRENT_HACK_40 //+40%
 		//#define SET_CURRENT_HACK_60 //+60%
 
+	//choose ONE of the following:
+		//#define VOLTAGE_SPOOFING_DISABLE          //closest to OEM IMA behavior
+		#define VOLTAGE_SPOOFING_ASSIST_ONLY      //only spoof voltage during assist
+		//#define VOLTAGE_SPOOFING_ASSIST_AND_REGEN //always spoof voltage (enables stronger regen)
+
 	#define LCD_4X20_CONNECTED  //Comment to disable all 4x20 LCD commands
 	//Choose which I2C LCD driver to use for 4x20 display:
 		//#define I2C_LIQUID_CRYSTAL //use "LiquidCrystal_I2C.h"
