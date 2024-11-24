@@ -1,0 +1,34 @@
+LX68-10C790-G-PIA-3AB
+Module No: MP0217NS002A
+FoMoCo
+Samsung
+Used in:
+Ford Escape PHEV (verified)
+Jeep Wrangler 4xe
+Audi Q5 PHEV (12S modules ONLY)(verified)
+Ford Kona (verified)
+
+Recalled module: LX68-10B759-R
+NHTSA Part 573 Filing: 21V-869
+NHTSA Campaign Number: 22E-005
+QTY1139 Ford and QTY24 Stellantis vehicles recalled, with 14% estimated to contain defect.
+HV busbar welding issues identified in Samsung SDI's manufacturing process.  Causes higher resistance between the cell terminal and busbar.
+
+The busbar pad wasn’t seated properly, or the power of the welding between the cell terminal and busbar was insufficient, thus increasing the risk of a sudden loss of drive power.
+
+"Samsung sdi co., ltd. (samsung sdi) is recalling certain high voltage battery packs, part numbers lx68-10c790-g-pia3ab, lx68-10c790-g-pia3ad, 05193168ag, 05193168ah, lx68-10c790-g-pia3ac, 05193168ae, and 05193168af. the high voltage battery may fail, resulting in a sudden loss of drive power. "
+
+Composed of Samsung prismatic cells (model MP0217NS002A)
+HS CODE: 8507 60
+
+Back in December 2021, the peeps at Samsung SDI informed the peeps in Dearborn of the root cause: high-voltage battery pack busbar insufficient weld penetration. Ford is aware of no fewer than four warranty claims in the EU, which range from August 12th, 2021, through January 10th, 2022.
+
+The cause for the aforementioned issue comes in the guise of a damaged cooling line, caused by the improper maintenance of the laser air knife, resulting in an out-of-control welding process. Through April 2022, the automaker investigated busbar assemblies built during the suspect period.
+
+Corroborated with Samsung SDI’s production records, the Ford Motor Company pinpointed 26 units of the Escape that were manufactured between July 2020 and August 2020 for the 2020 model year. The recall affects one example of the Lincoln Corsair, built on September 18th, 2020, for the 2021 model year. Happily for everyone, Ford isn’t aware of any reports of accident or injury related to the supplier’s inexcusable oversight.
+
+The battery, which bears part number LX68-10B759-R, will be fully replaced by dealers at no charge to the owners. First-class mail notifications will be sent from July 5th through July 12th, as per the attached document.
+
+As for Samsung SDI, which is known for bungling up battery packs, the supplier repaired the cooling line on June 27th, 2020. Although the fine details of Ford’s collaboration with Samsung SDI aren’t publicly known, there’s no denying the South Korean supplier will cover the costs in full.
+
+Manufactured by Samsung SDI
